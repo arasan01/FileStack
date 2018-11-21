@@ -2,6 +2,6 @@
 
 cp ./fs /usr/local/bin/
 
-chmod 755 fs
+chmod 100 fs
 
 echo Install Complete !
